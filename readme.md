@@ -4,30 +4,41 @@
 
 ###
 <h2> Estatísticas </h2>
-<div align="center">
+<div align="row">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Angela-Muller&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <h2 align="left"> Técnologias usadas</h2>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+<div align="row">
+  <section>
+    <h3> Linguagens de Programação </h3>
+  <img src="https://camo.githubusercontent.com/2d15edae32d625be0df403436bee04597c7b9ffa4c3ddeac80c2385412964bc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465" height="40" alt="javascript logo"  />
+  <img src="https://camo.githubusercontent.com/f58d46791fd748f11d0672e208a60b65dfb04df4a1c2a3dfc3f41899b594b29d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" height="40" alt="typescript logo"  />
+  <img src="https://camo.githubusercontent.com/aa2eb046423bc0e6578bbcf0f00e5109240dc3b97dd0a8bf137da476086a12e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" height="40" alt="html5 logo"  />
+  </section>
+
+  <section> 
+    <h3> Software & Databases </h3>
+    <img src="https://camo.githubusercontent.com/ca2f8b1d55f2643c2fe006e8d005fed0ad6b09af969e4646bf3167968a396a32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d7768697465" height="40" alt="vscode"  />
+    <img src="https://camo.githubusercontent.com/131b1f1ba0152b1607a149505469635f7e66ca8ef2c43488836393575939bd40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e74656c6c694a2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a69646561266c6f676f436f6c6f723d7768697465" height="40" alt="intelij"  />
+    <img src="https://camo.githubusercontent.com/551aa5953f3fc9b5734f4be04c46080d3da43f989382ce13b8edda303cd16341/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" height="40" alt="mysql"  />
+  </section>
+  <section>
+<h3> Outras ferramentas </h3>
+    <img src="https://camo.githubusercontent.com/7ad00386b08163f6de5642c2c94832bbc97450981b2dca97be628b0b4c4ad10b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3234323932463f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" height="40" alt="github"  />
+    <img src="https://camo.githubusercontent.com/4cab00a1867b21b6b6e18cdfaff70d820aea71738e02598e5ade94c824a64530/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" height="40" alt="git"  />
+    <img src="https://camo.githubusercontent.com/5e4b4ca9eab604bf0ff892e99aecd1c787957525298e66f614c853449d620f14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4669676d612d4646373236323f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" height="40" alt="figma"  />
+    <img src="https://camo.githubusercontent.com/f2ad9dbd7bec8d16565504de357f923acb36d4e1f8370a619a83fc40d1621028/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d43616e76612d3030433443433f7374796c653d666f722d7468652d6261646765266c6f676f3d63616e7661266c6f676f436f6c6f723d7768697465" height="40" alt="canva"  />
+    <img src="https://camo.githubusercontent.com/6f51f18bef13c85d4db4d78a0c4124201ac2e6adc3d5d83b18b5ceb373def2b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5472656c6c6f2d3030373942463f7374796c653d666f722d7468652d6261646765266c6f676f3d7472656c6c6f266c6f676f436f6c6f723d7768697465" height="40" alt="trello"  />
+  </section>
+
 </div>
 
 ###
 <h2> Meus Links</h2> 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" link="Am.angelamuller@gmail.com"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
