@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋! Sou a Angela Müller!</h1>
+<h1 align="left">Olá 👋! Sou a Angela Müller! ᓚᘏᗢ</h1>
 
 
 
