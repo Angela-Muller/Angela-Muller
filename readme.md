@@ -4,8 +4,8 @@
 
 ###
 <h2> Estatísticas </h2>
-<div align="row">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Angela-Muller&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://raw.githubusercontent.com/Angela-Muller/Angela-Muller/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
