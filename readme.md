@@ -4,9 +4,10 @@
 
 ###
 <h2> Estatísticas </h2>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/Angela-Muller/Angela-Muller/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+<p align="left">
+  <img height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Angela-Muller&layout=compact&theme=tokyonight" />
+</p>
+
 
 ###
 
