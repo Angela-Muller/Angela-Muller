@@ -41,5 +41,5 @@
 <h2> Meus Links</h2> 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" link="Am.angelamuller@gmail.com"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&link=www.linkedin.com%2Fin%2Fam-angela-muller" height="35" alt="linkedin logo"  />
 </div>
